@@ -1,0 +1,2 @@
+# Next Word Prediction Using LSTM
+This project is a natural language processing (NLP) application that uses Long Short-Term Memory (LSTM) networks to predict the next word in a sentence or text. Next word prediction is a fundamental task in various NLP applications, such as autocomplete and text generation. The LSTM model implemented in this project is trained on a large corpus of text data to learn the patterns and dependencies between words, enabling it to make contextually relevant word predictions.
